@@ -1,7 +1,5 @@
 book-mgr-fe/node_modules
 book-mgr-fe/build
-
+.idea
 book-mgr-be/node_modules 
 book-mgr-fe/build
-
-code-origin
